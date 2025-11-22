@@ -104,7 +104,7 @@
     <p><span>( Add your links here: website, LinkedIn, email )</span></p>
     <div contenteditable="false"><hr /></div>
     <blockquote>
-      <p><span>"Build small. Build sharp. Build real."</span></p>
+      <p><span>"Quantity, has a quality all unto itself"</span></p>
     </blockquote>
     <p><br class="ProseMirror-trailingBreak" /></p>
   </div>
