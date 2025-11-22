@@ -13,7 +13,7 @@ Ex–PokerStars dealer → programmer → creative builder in code, music, and t
 
 ## 🚀 What I'm Building
 
-* **Peach Nutrition** — modern sports supplement brand (Shopify + custom Liquid + full UI system).
+* [**Peach Nutrition**](https://peach-nutrition.com/) — modern sports supplement brand (Shopify + custom Liquid + full UI system).
 * **MERN + Docker + AWS pipeline** — real deployment, real infra.
 * **Apex‑inspired gameplay systems** — movement, animation states, physics.
 * **Reusable p5.js animation states** — walk cycles, running, punching, sliding.
