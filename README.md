@@ -101,7 +101,6 @@
     </p>
     <div contenteditable="false"><hr /></div>
     <h2><span>📫 Connect</span></h2>
-    <p><span>( Add your links here: website, LinkedIn, email )</span></p>
     <div contenteditable="false"><hr /></div>
     <blockquote>
       <p><span>"Quantity, has a quality all unto itself"</span></p>
