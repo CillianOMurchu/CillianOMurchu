@@ -1,15 +1,15 @@
 <div align="center">
 
-#  High-Performance Systems Architect
+#  Hi, I'm Cillian. :)
 
-### ⚡ Full‑stack Builder • 🎸🎹🎤 instrumentalist • 🏋️‍♂️ Founder • 🪙 Crypto • 🛂 Smart Contracts • 🦀 Rust/Haskell (Functional & Concurrency)
+### ⚡ High-Performance Systems Architect • 🎸🎹🎤 instrumentalist • 🏋️‍♂️ Founder • 🪙 Crypto • 🛂 Smart Contracts • 🦀 Rust/Haskell (Functional & Concurrency)
 </div>
 
 ---
 
 <div align="center">
   <p style="font-size: 1.1em; max-width: 650px; margin: 0 auto; padding-bottom: 20px;">
-    Ex–PokerStars ♠️ dealer → 👨‍💻 Programmer. I craft robust UIs with Angular/React, leveraging AI for **rapid scaffolding & agent orchestration**. Obsessed with data usability, pristine form, and performance.
+    Ex–PokerStars ♠️ dealer → 👨‍💻 Programmer. I craft robust stylish UIs with Angular/React, leveraging AI for **rapid scaffolding & agent orchestration**. Like Jonathan Ive of Apple, i'm a fan of prioritising both function and form. 
   </p>
 </div>
 
@@ -18,9 +18,9 @@
 <div align="center">
   <h2>🚀 What I'm Building</h2>
   
-  > ### 🏆 Project Highlights: Resilience, Performance, and Product
+  > ### 🏆 Projects
   >
-  > 🌿 **Peach Nutrition:** Leading a modern sports supplement brand's digital presence (Shopify/Liquid). **End-to-end product ownership** from design to deployment.
+  > 🍑 **Peach Nutrition:** Leading a modern sports supplement brand's digital presence (Shopify/Liquid). **End-to-end product ownership** from design to deployment.
   >
   > ⚙️ **MERN/Infra:** Building resilient, Dockerized backends on AWS. Focus on **low-latency data flow** and scalable cloud architecture.
   >
@@ -69,10 +69,9 @@
 <br>
 
 <div align="center">
-  <h2>🎵 Outside of Code</h2>
+  <h2>Outside of Code</h2>
   
-  > 🎶 **The Creative Side**
   > 
-  > Guitar • Piano • Drums • Vocals • Stay in shape — **music, tech, and helping people.**
+  > 🎸Guitar • 🎹 Piano • 🥁 Drums • 🎤 Vocals • 🏋️ Stay in shape — **music, tech, and helping people.**
   
 </div>
