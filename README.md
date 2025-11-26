@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Hi, I'm Cillian. :)
+#  Hi, I'm Cillian
 
 ### ⚡ High-Performance Systems Architect • 🎸🎹🎤 instrumentalist • 🏋️‍♂️ Founder • 🪙 Crypto • 🛂 Smart Contracts • 🦀 Rust/Haskell (Functional & Concurrency)
 </div>
