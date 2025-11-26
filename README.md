@@ -17,23 +17,6 @@
 <br>
 
 <div align="center">
-  <h2>🚀 What I'm Building</h2>
-  
-  > ### 🏆 Projects
-  >
-  > 🍑 **Peach Nutrition:** Leading a modern sports supplement brand's digital presence (Shopify/Liquid). **End-to-end product ownership** from design to deployment.
-  >
-  > ⚙️ **MERN/Infra:** Building resilient, Dockerized backends on AWS. Focus on **low-latency data flow** and scalable cloud architecture.
-  >
-  > 🕹️ **Apex Systems (Gamification):** Applying **gamification principles** to UI/UX, focusing on high-fidelity, physics-driven interaction states (p5.js).
-  >
-  > 🔬 **Haskell/Rust TDD:** Building a purely functional Chess Core for reliable move validation and next-state generation—deep dive into **functional architecture**.
-
-</div>
-
-<br>
-
-<div align="center">
   <h2>🛠 Core Technologies</h2>
   
   <table>
