@@ -9,7 +9,7 @@
 
 <div align="center">
   <p style="font-size: 1.1em; max-width: 650px; margin: 0 auto; padding-bottom: 20px;">
-    Ex–PokerStars ♠️ dealer → 👨‍💻 Programmer. I craft robust stylish UIs with Angular/React, leveraging AI for  <b>rapid scaffolding</b>b> & <b>agent orchestration</b>.
+    Ex–PokerStars ♠️ dealer → 👨‍💻 Programmer. I craft robust stylish UIs with Angular/React, leveraging AI for  <b>rapid scaffolding</b> & <b>agent orchestration</b>.
     Informed by design leaders such as <b>Jony Ive</b>, my philosophy is that UI/UX is not merely aesthetics, but a core component of functionality—form must actively serve the tool's performance. 
   </p>
 </div>
