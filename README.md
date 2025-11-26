@@ -2,7 +2,7 @@
 
 #  Hi, I'm Cillian
 
-### ⚡ High-Performance Systems Architect • 🎸🎹🎤 instrumentalist • 🏋️‍♂️ Founder • 🪙 Crypto • 🛂 Smart Contracts • 🦀 Rust/Haskell (Functional & Concurrency)
+### ⚡ High-Performance Systems Architect
 </div>
 
 ---
