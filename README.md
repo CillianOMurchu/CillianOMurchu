@@ -2,8 +2,6 @@
 
 <div align="center">
   
-# Cillian
-
 ## ⚡ Polyglot Architect / Engineer ⚡
 
 </div>
