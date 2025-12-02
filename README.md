@@ -149,7 +149,7 @@
 
 <p style="font-size: 1.1em; color: #e5e7eb; max-width: 650px; margin: 10px auto;">
 
-> 🎸Guitar • 🎹 Piano • 🥁 Drums • 🎤 Vocals • 🏋️ Calisthenics & 👟 Running & 🎾 Tennis
+> 🎸Guitar • 🎹 Piano • 🥁 Drums • 🎤 Vocals • 🏋️ Calisthenics • 👟 Running • 🎾 Tennis
 
 </p>
 
