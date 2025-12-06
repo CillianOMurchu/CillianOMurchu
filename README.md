@@ -2,7 +2,7 @@
 
 <div align="center">
   
-## ⚡ Polyglot Architect / Engineer ⚡
+## ⚡ Polyglot Full Stack Engineer ⚡
 
 </div>
 
