@@ -2,8 +2,8 @@
 
 <div align="center">
   
-## ⚡ Polyglot Full Stack Engineer ⚡
-
+## ⚡ Engineer ⚡
+### Bringing Order to Complexity
 </div>
 
 </div>
